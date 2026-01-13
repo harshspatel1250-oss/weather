@@ -1,0 +1,39 @@
+{
+    "daily_summary": {
+        "ST001": {
+            "2024-01-05": {
+                "avg_temperature": 40.5,
+                "total_rainfall": 12.0,
+                "alerts": [
+                    "HEAT_ALERT"
+                ]
+            }
+        },
+        "ST002": {
+            "2024-01-05": {
+                "avg_temperature": 38.2,
+                "total_rainfall": 0.0,
+                "alerts": []
+            }
+        },
+        "ST003": {
+            "2024-01-05": {
+                "avg_temperature": 40.5,
+                "total_rainfall": 80.0,
+                "alerts": [
+                    "HEAT_ALERT"
+                ]
+            }
+        },
+        "ST005": {
+            "2024-01-08": {
+                "avg_temperature": 58.0,
+                "total_rainfall": 150.0,
+                "alerts": [
+                    "HEAT_ALERT",
+                    "HEAVY_RAIN_ALERT"
+                ]
+            }
+        }
+    }
+}

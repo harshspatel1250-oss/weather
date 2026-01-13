@@ -1,0 +1,1 @@
+ERROR:root:Invalid record skipped: {'station_id': 'ST004', 'timestamp': '2024-01-010T10:00:00', 'temperature': 65.5, 'rainfall': 90, 'humidity': 60}

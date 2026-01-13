@@ -1,0 +1,38 @@
+[
+  {
+    "station_id": "ST001",
+    "timestamp": "2024-01-05T10:00:00",
+    "temperature": 40.5,
+    "rainfall": 12,
+    "humidity": 78
+  },
+  {
+    "station_id": "ST002",
+    "timestamp": "2024-01-05T16:00:00",
+    "temperature": 38.2,
+    "rainfall": 0,
+    "humidity": 65
+  },
+  {
+    "station_id": "ST003",
+    "timestamp": "2024-01-05T16:00:00",
+    "temperature": 40.5,
+    "rainfall": 80,
+    "humidity": 55
+  },
+  {
+  "station_id": "ST004",
+  "timestamp": "2024-01-010T10:00:00",
+  "temperature": 65.5,
+  "rainfall": 90,
+  "humidity": 60
+},
+{
+  "station_id": "ST005",
+  "timestamp": "2024-01-08T16:00:00",
+  "temperature": 58,
+  "rainfall": 150,
+  "humidity": 50
+}
+
+]
